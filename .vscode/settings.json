@@ -2,7 +2,9 @@
   "cSpell.words": [
     "pubspec",
     "softyes",
+    "tabcoins",
     "tabnewsnc"
   ],
-  "dart.flutterSdkPath": ".fvm/versions/3.38.3"
+  "dart.flutterSdkPath": ".fvm/versions/3.38.4",
+  "makefile.configureOnOpen": false
 }
