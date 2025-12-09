@@ -3,3 +3,4 @@ library;
 
 export 'src/entities.dart';
 export 'src/enums.dart';
+export 'src/services.dart';
